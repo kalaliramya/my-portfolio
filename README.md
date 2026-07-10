@@ -4,7 +4,7 @@ Personal portfolio website for **Kalali Ramya** — Full Stack .NET Developer �
 
 Showcases my experience, skills, and projects, with a contact section for opportunities.
 
----
+--
 
 ## ✨ Features
 
